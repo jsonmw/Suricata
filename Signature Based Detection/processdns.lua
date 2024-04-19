@@ -1,7 +1,3 @@
--- Jason Wild
--- CISS 469
--- Signature-based detection Script
-
 -- Global variables
 
 threshold = 3  -- highest allowed entropy
